@@ -3,7 +3,23 @@ Night Shadow's application's storage repository.
  
 ### \> What can be found
 User's previous and future applications will be found here.
- 
+  
+### \> Soon!.exe  
+ Year: 2015  
+ IDE: Visual Studio  
+ Programming Language: Visual Basic  
+   
+ Created to be a "piggybank". Future fixed and improved version will be created.
+
+### \> Software Requirementations.exe  
+ Year: 2016  
+ IDE: Visual Studio  
+ Programming Language: Visual Basic  
+   
+ Created to be a user assistant.  
+ This version simply has hyperlinks to webpages of each software, but the owner's version each button opens it's own correspondent software in the local storage drive.  
+ Future improved version will be created.
+
 ### \> Projects languages used
 - [ ]  Java
 - [ ]  JavaScript
