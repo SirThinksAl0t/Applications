@@ -5,9 +5,9 @@ Night Shadow's application's storage repository.
 User's previous and future applications will be found here.
  
 ### \> Projects languages used
-- []  Java
-- []  JavaScript
-- []  HTML
+- [ ]  Java
+- [ ]  JavaScript
+- [ ]  HTML
 - [x]  Visual Basic
  
 ### :mag: About the owner
