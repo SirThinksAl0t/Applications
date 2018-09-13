@@ -23,6 +23,8 @@ User's previous and future applications will be found here.
 - [ ]  JavaScript
 - [ ]  HTML
 - [x]  Visual Basic
+- [ ]  Visual C#
+- [ ]  React
  
 ### :mag: About the owner
   
