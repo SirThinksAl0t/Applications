@@ -4,14 +4,14 @@ User's previous and future applications will be found here.
   
 ### \> Soon!.exe  
  Year: 2015  
- IDE: Visual Studio  
+ IDE: Visual Studio 2015  
  Programming Language: Visual Basic  
    
  Created to be a "piggybank". Future fixed and improved version will be created.
 
 ### \> Software Requirementations.exe  
  Year: 2016  
- IDE: Visual Studio  
+ IDE: Visual Studio 2015  
  Programming Language: Visual Basic  
    
  Created to be a user assistant.  
