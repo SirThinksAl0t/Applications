@@ -30,7 +30,7 @@ User's previous and future applications will be found here.
  
   
 ### \> StarPop.jar 
- Year: 2018  
+ Year: 4 June 2018  
  IDE: IntelliJ IDEA  
  Programming Language: Java  
  Requirements: JDK 10, ANT, Maven  
