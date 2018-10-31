@@ -7,7 +7,7 @@ User's previous and future applications will be found here.
  IDE: Visual Studio 2015  
  Programming Language: Visual Basic  
    
- Created to be a "piggybank". Future fixed and improved version will be created.
+ Created to be a "piggybank". Future fixed and improved version will be created.  
 
 ### \> Software Requirementations.exe  
  Year: 2016  
@@ -27,7 +27,14 @@ User's previous and future applications will be found here.
  Project currently in development!  
  Windows application to list, organize and save anime titles, movies, and more.  
  One of the future features to come is bringing the application to the web browser using React.
- 
+    
+### \> Arabian_Nights.jar  
+ Year: 2018  
+ IDE: IntelliJ IDEA  
+ Programming Language: Java  
+ Requirements: Macintosh, Unix, Command line knowledge 
+   
+ Project developed during Bootcamp #15 @ [<Academia de Código_>](http://www.academiadecodigo.org/)  
   
 ### \> StarPop.jar 
  Year: 4 June 2018  
