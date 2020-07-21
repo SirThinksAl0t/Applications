@@ -54,11 +54,20 @@ User's previous and future applications will be found here.
  Controls:  
  :arrow_up: :arrow_down: :arrow_left: :arrow_right: to move.  
  :heavy_minus_sign: [SPACEBAR] to shoot / acccept / enter.  
-
+  
+### \> User Assistant Ver.3.1.2.1  
+ Year: July 2020  
+ IDE: Visual Studio 2019  
+ Programming Language: C#  
+ Requirements: .NET Framework 3.5  
+ 
+ Software designed to assist the user upon formatting or reseting a device by offering shortcuts, setups or configurations according to the current user's preference.  
+ This version was designed to assist current developers and hardware tech shops. Currently user limited and in tests.
+ 
 ### \> Projects languages used  
 
 - [x]  Java
-- [ ]  JavaScript
+- [x]  JavaScript
 - [x]  Visual Basic
 - [x]  Visual C#
 - [ ]  HTML
