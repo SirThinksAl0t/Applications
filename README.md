@@ -1,5 +1,5 @@
 ### \> What can be found
-Night Shadow's application's storage repository.  
+User's application's storage repository.  
 User's previous and future applications will be found here.
   
 ### \> Soon!.exe  
